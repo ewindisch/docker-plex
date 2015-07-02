@@ -7,7 +7,7 @@ For alternative version that someone is running that may not work for everyone b
 Build from docker file
 
 ```
-git clone git@github.com:timhaak/docker-plex.git
+git clone git@github.com:ewindisch/docker-plex.git
 cd docker-plex
 docker build -t plex .
 ```
@@ -15,7 +15,7 @@ docker build -t plex .
 You can also obtain it via:
 
 ```
-docker pull timhaak/plex
+docker pull ewindisch/plex
 ```
 
 ---
